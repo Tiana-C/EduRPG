@@ -9,7 +9,7 @@ Turn your studying into a playable RPG. Track progress as XP, take damage on fai
 - **Battle Log**: Buttons for damage (25/50/100) and healing (potions/rest) auto-update HP.
 - **Inventory**: Items add HP bonus, damage reduction, or Study Mod; equip/unequip to affect rolls.
 - **Dice-friendly**: Criticals, fumbles, and random encounters are easy to add.
-- 
+  
 - ## 🎬 Demo
 Here’s how it looks in action:
 <br></br>
