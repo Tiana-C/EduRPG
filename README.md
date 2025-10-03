@@ -10,8 +10,8 @@ Turn your studying into a playable RPG. Track progress as XP, take damage on fai
 - **Inventory**: Items add HP bonus, damage reduction, or Study Mod; equip/unequip to affect rolls.
 - **Dice-friendly**: Criticals, fumbles, and random encounters are easy to add.
 - 
-- ## 🗺️ Databases
-- **Character**: Total XP (rollup), Level (formula), Max HP (formula), HP (Current) (formula), Gold (optional), Equipped bonuses (rollups).
+- ## 🗺️ Databases (schema overview)
+- **Character**: Total XP (rollup), Level (formula), Max HP (formula), HP (Current) (formula), Gold , Equipped bonuses (rollups).
 - **Inventory**: Item, Equipped?, Lost?, HP Bonus, Damage Reduction, Study Mod, **Effective** formulas (return 0 if not equipped/lost).
 - **Scenes**: Scene Text, Hidden Success/Failure, DC, Roll (Manual), Study Mod (rollup), Chapter relation, **Visible Text** formula, Chapter Unlocked? (rollup).
 - **Chapters**: Order, Required %, Completed Scenes (rollup), Total Scenes (rollup), Progress % (formula), **Unlocked?** (formula).
