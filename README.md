@@ -12,6 +12,7 @@ Turn your studying into a playable RPG. Track progress as XP, take damage on fai
 - 
 - ## 🎬 Demo
 Here’s how it looks in action:
+<br></br>
 ![EduRPG demo](docs/screenshots/rpgdemo.gif)
 
 - ## 🗺️ Databases (schema overview)
