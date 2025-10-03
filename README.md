@@ -1,4 +1,4 @@
-# EduRPG- The Ultimate Learning Adventure
+# EduRPG- The Ultimate Learning Adventure ⚠️ Project in Progress
 Turn your studying into a playable RPG. Track progress as XP, take damage on failed challenges, collect items that modify stats, and unlock story chapters as you master course objectives.
 
 ## ✨ Features
