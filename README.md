@@ -10,6 +10,10 @@ Turn your studying into a playable RPG. Track progress as XP, take damage on fai
 - **Inventory**: Items add HP bonus, damage reduction, or Study Mod; equip/unequip to affect rolls.
 - **Dice-friendly**: Criticals, fumbles, and random encounters are easy to add.
 - 
+- ## 🎬 Demo
+Here’s how it looks in action:
+![EduRPG demo](docs/screenshots/rpgdemo.gif)
+
 - ## 🗺️ Databases (schema overview)
 - **Character**: Total XP (rollup), Level (formula), Max HP (formula), HP (Current) (formula), Gold , Equipped bonuses (rollups).
 - **Inventory**: Item, Equipped?, Lost?, HP Bonus, Damage Reduction, Study Mod, **Effective** formulas (return 0 if not equipped/lost).
