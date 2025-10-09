@@ -2,7 +2,7 @@
 
 > **A Notion-based RPG that turns studying into a game.**  
 > Track XP by completing quests, take damage from failed challenges, and unlock new chapters as you master topics.
-> 🌟 I built this RPG for fun, and the response on Tiktok lead me to create this project documentation. I am currently building out a public template version so others can test it out. 
+> <br></br>🌟 I built this RPG for fun, and the response on Tiktok lead me to create this project documentation. I am currently building out a public template version so others can test it out. 
 
 ![EduRPG demo](docs/screenshots/rpgdemo.gif)
 
