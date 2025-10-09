@@ -40,7 +40,7 @@ Everything runs inside interconnected Notion databases:
 ## 🚀 Quick Start
 
 1. **Duplicate the Template**  
-   → [Notion Template Link](#) *(add your public Notion share link here)*
+   → [Notion Template Link](#) *(add link after completing public template)*
 
 2. **Open the Dashboard**  
    - View your Character Card  
