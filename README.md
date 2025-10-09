@@ -56,7 +56,7 @@ Everything runs inside interconnected Notion databases:
 ## 🧙‍♀️ Behind the Scenes
 
 This system was designed by **Tiana Coats** as part of her cloud and network engineering studies after being inspired playing Diablo Immortal.  
-This was built originally for **CompTIA Network+)**, later expanded into a general gamified study platform.
+This was built originally for **CompTIA Network+**, later expanded into a general gamified study platform.
 
 > *“I wanted to make studying feel like leveling up in an RPG to make learning fun and immersive.”*
 
