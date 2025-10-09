@@ -1,4 +1,4 @@
-# 🎮 EduRPG: The Ultimate Learning Adventure
+# 🎮 EduRPG: The Ultimate Learning Adventure ⚠️ PROJECT IN PROGRESS
 
 > **A Notion-based RPG that turns studying into a game.**  
 > Track XP by completing quests, take damage from failed challenges, and unlock new chapters as you master topics.
