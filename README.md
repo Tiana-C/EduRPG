@@ -63,8 +63,7 @@ Everything runs inside interconnected Notion databases:
 This system was designed by **Tiana Coats** as part of her cloud and network engineering studies after being inspired playing Diablo Immortal.  
 This was built originally for **CompTIA Network+ (N10-009)**, later expanded into a general gamified study platform.
 
-> *“I wanted to make studying feel like leveling up in an RPG —  
-every exam objective became a story quest.”*
+> *“I wanted to make studying feel like leveling up in an RPG to make learning fun and immersive.”*
 
 ---
 
@@ -97,9 +96,8 @@ See [ROADMAP.md](ROADMAP.md) for planned features like:
 ---
 
 ## 🙌 Credits
-Created by [**Tiana Coats**](https://www.linkedin.com/in/tianacoats/)  
+Created by [**Tiana Coats**](https://www.linkedin.com/in/tiana-coats-78618725a/)  
 Built with Notion and inspired by tabletop RPG mechanics.  
-Not affiliated with CompTIA or Blizzard.
 
 ---
 
