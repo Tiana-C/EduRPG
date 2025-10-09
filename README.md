@@ -3,14 +3,14 @@
 > **A Notion-based RPG that turns studying into a game.**  
 > Track XP by completing quests, take damage from failed challenges, and unlock new chapters as you master topics.
 
-![EduRPG demo](docs/screenshots/demo.gif)
+![EduRPG demo](docs/screenshots/rpgdemo.gif)
 
 ---
 
 ## 🌟 Overview
 
 EduRPG transforms your study routine into a role-playing adventure.  
-Built entirely inside **Notion**, this system gamifies learning — perfect for anyone pursuing certifications like CompTIA Network+, AWS, or Cybersecurity.
+Built entirely inside **Notion**, this system gamifies learning. 
 
 ### 🧠 Key Features
 - **Character Sheet** – HP hearts, XP bar, equipped items, level system.  
