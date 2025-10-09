@@ -47,13 +47,7 @@ Everything runs inside interconnected Notion databases:
    - Roll dice for your current Scene  
    - Use buttons: *Take Damage*, *Use Potion*, *Claim XP*
 
-3. **Import Sample Data (Optional)**  
-   CSVs located in `/templates/csv/`  
-   - `Scenes.csv`  
-   - `Inventory.csv`  
-   - `Chapters.csv`
-
-4. **Play Through Chapter 1: The Networking Realm**  
+3. **Play Through Chapter 1: The Networking Realm**  
    Study each topic, roll for success, and watch your XP rise!
 
 ---
